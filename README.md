@@ -44,8 +44,8 @@
 <p>Here are my Github statistics so far this year!</p>
 
 <p align="center" justify = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuarteRodrigues&show_icons=true&theme=radical" alt="Duarte's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteRodrigues&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuarteRodrigues&show_icons=true&theme=dark#gh-dark-mode-only" alt="Duarte's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteRodrigues&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages">
 </p>
 
 
