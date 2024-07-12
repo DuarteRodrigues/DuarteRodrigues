@@ -9,6 +9,7 @@
 <p align = "center">I hold an associates degree in Computer System Management, which provided me with a solid foundation in IT and system administration. My passion lies in software development with a focus on web development, and I'm dedicated to learning how to build robust and innovative solutions!</p>
 <p align = "center"> Throughout my academic journey, I've developed proficiencies in different programming languages and technologies through the development of different academic projects. I enjoy taking on complex problems and am always eager to learn new skills and technologies to enhance my capabilities!</p>
 
+<br></br>
 <h2 align = "center">Technologies and Tools 🛠</h2>
 <p>Languages:</p>
 <p align = "center">
@@ -45,12 +46,14 @@
   <img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt = "NumPy">
   <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt = "Pandas">
 
+<br></br>
 <h2 align = "center">📊 GitHub Stats</h2>
 
 <p>Here are my Github statistics so far this year!</p>
 
 <p align = "center">
   <img  src="https://github-readme-stats.vercel.app/api?username=DuarteRodrigues&show_icons=true&theme=dark#gh-dark-mode-only" alt="Duarte's GitHub stats">
+<br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteRodrigues&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages">
 </p>
 
