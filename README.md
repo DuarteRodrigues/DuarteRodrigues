@@ -1,8 +1,8 @@
 <h1 align = "center">Hi there, I'm Duarte! 👋</h1>
 <p align = "center">Contacts:</p>
 <p align = "center">
-    <a href = "https://www.linkedin.com/in/duarte-rodrigues-842812234/"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn"> </a>
-    <a href = "mailto:duarte.log.2001@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"> </a>
+    <a href = "https://www.linkedin.com/in/duarte-rodrigues-842812234/" target="_blank"> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn"> </a>
+    <a href = "mailto:duarte.log.2001@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"> </a>
 </p>
 
 <p align = "center">I'm a 22-year-old college student from Portugal currently headed towards my final year in my computer engineering bachelor's degree!🎓</p>
