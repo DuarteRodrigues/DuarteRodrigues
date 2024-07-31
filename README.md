@@ -31,6 +31,7 @@
 <p align = "center">
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS">
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "React">
+  <img src = "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt = "jQuery">
 </p>
 
 <p>Other Tools, Languages and Libraries</p>
