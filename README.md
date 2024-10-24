@@ -5,7 +5,7 @@
     <a href = "mailto:duarte.log.2001@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"> </a>
 </p>
 
-<p align = "center">I'm a 22-year-old college student from Portugal currently headed towards my final year in my computer engineering bachelor's degree!🎓</p>
+<p align = "center">I'm a 23-year-old college student from Portugal currently headed towards my final year in my computer engineering bachelor's degree!🎓</p>
 <p align = "center">I hold an associates degree in Computer System Management, which provided me with a solid foundation in IT and system administration. My passion lies in software development with a focus on web development, and I'm dedicated to learning how to build robust and innovative solutions!</p>
 <p align = "center"> Throughout my academic journey, I've developed proficiencies in different programming languages and technologies through the development of different projects. I enjoy taking on complex problems and am always eager to learn new skills and technologies to enhance my capabilities!</p>
 
